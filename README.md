@@ -25,8 +25,7 @@ Aplikasi penjelajah buku cerdas berbasis Android dengan fitur rekomendasi AI (Gr
 > **Penjelasan:** Ini adalah halaman utama atau "jantung" dari LokaBuku. Di sini pengguna bisa melihat deretan buku yang sedang tren. Fitur unggulannya adalah kolom pencarian AI (terintegrasi dengan Groq API). Pengguna bisa mengetik suasana atau genre buku yang diinginkan, lalu AI akan memberikan rekomendasi judul beserta gambar sampul aslinya yang ditarik langsung (*fetching*) menggunakan Google Books API.  
 
 **4. Halaman Detail Buku** <br>
-<img src="https://github.com/user-attachments/assets/601e3b61-460d-4519-813c-c9f4d7af570d" width="250" height="540" />
-
+<img src="https://github.com/user-attachments/assets/f89043c7-23a6-4900-9a4e-ca8911892b3b" width="250" height="540" />
 > **Penjelasan:** Jika pengguna menekan salah satu *cover* buku di Dashboard, halaman detail ini akan muncul. Di sini pengguna bisa melihat sampul buku dengan ukuran yang lebih besar, membaca sinopsis lengkapnya, dan menekan ikon 'Hati' (Love) untuk menyimpan buku tersebut ke dalam daftar koleksi pribadi.  
 
 **5. Halaman Profil & Koleksi** <br>
