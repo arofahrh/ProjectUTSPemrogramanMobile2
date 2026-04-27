@@ -10,26 +10,26 @@ Aplikasi penjelajah buku cerdas berbasis Android dengan fitur rekomendasi AI (Gr
 ## Tampilan Aplikasi (User Interface)  
 
 **1. Splash Screen** <br>
-<img src="https://github.com/user-attachments/assets/f2a47173-04ac-49c0-a147-20b1139a6d8e" width="250" />
+<img src="https://github.com/user-attachments/assets/f2a47173-04ac-49c0-a147-20b1139a6d8e" width="250" height="540" />
 
 > **Penjelasan:** Layar pembuka aplikasi yang simpel namun elegan. Disertai sapaan selamat datang yang pintar, karena teks sapaannya bisa menyesuaikan secara otomatis dengan bahasa yang sedang digunakan pada perangkat HP pengguna.  
 
 **2. Halaman Login** <br>
-<img src="https://github.com/user-attachments/assets/5b003499-e3a0-4b75-8950-d000ed68db12" width="250" />
+<img src="https://github.com/user-attachments/assets/5b003499-e3a0-4b75-8950-d000ed68db12" width="250" height="540" />
 
 > **Penjelasan:** Tampilan masuk yang bersih dan *user-friendly*. Pengguna cukup memasukkan email dan *password* untuk mengakses fitur utama. Setelah berhasil masuk, sistem akan menyimpan sesi pengguna agar emailnya bisa ditampilkan di halaman profil nantinya.
 
 **3. Dashboard Utama (Menu Eksplor)** <br>
-<img src="https://github.com/user-attachments/assets/91ca363b-f1bf-4456-8920-99c379fbd978" width="250" />
+<img src="https://github.com/user-attachments/assets/91ca363b-f1bf-4456-8920-99c379fbd978" width="250" height="540" />
 
 > **Penjelasan:** Ini adalah halaman utama atau "jantung" dari LokaBuku. Di sini pengguna bisa melihat deretan buku yang sedang tren. Fitur unggulannya adalah kolom pencarian AI (terintegrasi dengan Groq API). Pengguna bisa mengetik suasana atau genre buku yang diinginkan, lalu AI akan memberikan rekomendasi judul beserta gambar sampul aslinya yang ditarik langsung (*fetching*) menggunakan Google Books API.  
 
 **4. Halaman Detail Buku** <br>
-<img src="LINK_FOTO_DETAIL_BUKU_DI_SINI" width="250" />
+<img src="https://github.com/user-attachments/assets/601e3b61-460d-4519-813c-c9f4d7af570d" width="250" height="540" />
 
 > **Penjelasan:** Jika pengguna menekan salah satu *cover* buku di Dashboard, halaman detail ini akan muncul. Di sini pengguna bisa melihat sampul buku dengan ukuran yang lebih besar, membaca sinopsis lengkapnya, dan menekan ikon 'Hati' (Love) untuk menyimpan buku tersebut ke dalam daftar koleksi pribadi.  
 
 **5. Halaman Profil & Koleksi** <br>
-<img src="https://github.com/user-attachments/assets/6023dca4-e16c-4e45-b1d6-8db11ecb0206" width="250" />
+<img src="https://github.com/user-attachments/assets/6023dca4-e16c-4e45-b1d6-8db11ecb0206" width="250" height="540" />
 
 > **Penjelasan:** Halaman personal yang merangkum data pengguna. Di bagian atas terdapat informasi akun (email yang digunakan saat login), dan di bawahnya terdapat daftar buku (*list view*) yang sudah disimpan dari halaman detail tadi. Tersedia juga tombol untuk *Logout* yang akan menghapus sesi dan mengembalikan pengguna ke halaman awal.
